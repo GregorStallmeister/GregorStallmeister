@@ -5,7 +5,7 @@
 - 🌱 growing up to a fullstack java developer
 - 📫 How to reach me: https://www.linkedin.com/in/gregor-stallmeister/
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Take care of your health: sitting is the new smoking!
+- ⚡ Fun fact: Everyone is theeir own project, also besides of GitHub!
 
 <!--
 **GregorStallmeister/GregorStallmeister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
