@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on my capstone project: gregors-picturegallery
 - 🌱 I’m currently learning Java, Typescript
+- 📫 How to reach me: https://www.linkedin.com/in/gregor-stallmeister/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Take care of your health: sitting is the new smoking!
 
