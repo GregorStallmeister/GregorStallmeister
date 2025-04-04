@@ -1,5 +1,10 @@
 ## Hi there and welcome to my profile!👋
 
+- 🔭 I’m currently working on my capstone project: gregors-picturegallery
+- 🌱 I’m currently learning Java, Typescript
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Take care of your health: sitting is the new smoking!
+
 <!--
 **GregorStallmeister/GregorStallmeister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
