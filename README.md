@@ -1,7 +1,8 @@
 ## Hi there and welcome to my profile!👋
 
 - 🔭 I’m currently working on my capstone project: gregors-picturegallery
-- 🌱 I’m currently learning Java, Typescript
+- 🌱 I’m currently learning Java, Typescript and many more
+- 🌱 growing to a fullstack java developer
 - 📫 How to reach me: https://www.linkedin.com/in/gregor-stallmeister/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Take care of your health: sitting is the new smoking!
