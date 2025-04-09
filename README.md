@@ -1,6 +1,6 @@
 ## Hi there and welcome to my profile!👋
 
-- 🔭 I’m currently working on my capstone project: [gregors-picturegallery](https://gregors-picturegallery.onrender.com/pictures)
+- 🔭 I’m currently working on my capstone project: [gregors-picturegallery](https://gregors-picturegallery.onrender.com)
 - 🌱 I’m currently learning Java, Typescript and many more
 - 🌱 growing up to a fullstack java developer
 - 📫 How to reach me: https://www.linkedin.com/in/gregor-stallmeister/
