@@ -1,4 +1,5 @@
-## Hi there and welcome to my profile!👋
+## Hi there and welcome to my profile!👋![image](https://github.com/user-attachments/assets/1727c0d0-5bbe-48e3-b79c-a6db3d4b518f)
+
 
 
 - 🔭 I’m currently working on my capstone project: [gregors-picturegallery](https://gregors-picturegallery.onrender.com)
