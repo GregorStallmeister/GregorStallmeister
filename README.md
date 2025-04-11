@@ -1,4 +1,4 @@
-## Hi there and welcome to my profile!👋![sunflower_1131164](https://github.com/user-attachments/assets/5682702a-9888-41e1-afa1-15579988f257)
+## Hi there and welcome to my profile!👋
 
 
 - 🔭 I’m currently working on my capstone project: [gregors-picturegallery](https://gregors-picturegallery.onrender.com)
