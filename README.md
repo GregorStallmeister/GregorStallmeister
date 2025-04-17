@@ -1,7 +1,8 @@
 ![image](https://github.com/user-attachments/assets/42f858b1-88a7-4a4c-8a03-06038adf13eb) <b> Hi there and welcome to my profile! </b>
 
 
-- 🔭 I’m currently working on my capstone project: [gregors-picturegallery](https://gregors-picturegallery.onrender.com)
+- 🔭 I’m currently working on my capstone project: gregors-picturegallery
+  You are invited to look into the [repository](https://github.com/GregorStallmeister/gregors-picturegallery) and to visit the [online version](https://gregors-picturegallery.onrender.com).
 - 🌱 I’m currently learning Java, Typescript and many more
 - 🌱 growing up to a fullstack java developer
 - 📫 How to reach me: https://www.linkedin.com/in/gregor-stallmeister/
