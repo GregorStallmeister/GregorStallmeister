@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on my capstone project: gregors-picturegallery - gregors-fotogalerie
-- 🔭 You are cordialy invited to look into the [repository](https://github.com/GregorStallmeister/gregors-picturegallery) and to visit the [running gallery](https://gregors-picturegallery.onrender.com)
+- 🔭 You are cordially invited to look into the [repository](https://github.com/GregorStallmeister/gregors-picturegallery) and to visit the [running gallery](https://gregors-picturegallery.onrender.com)
 - 🌱 I’m currently learning deeper Java, Typescript and many more
 - 🌱 growing up to a fullstack java developer
 - 📫 How to reach me: https://www.linkedin.com/in/gregor-stallmeister/
