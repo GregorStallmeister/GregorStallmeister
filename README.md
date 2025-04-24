@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on my capstone project: gregors-picturegallery - gregors-fotogalerie
 - 🔭 You are cordially invited to look into the [repository](https://github.com/GregorStallmeister/gregors-picturegallery) and to visit the [running gallery](https://gregors-picturegallery.onrender.com)
 - 🌱 I’m currently learning deeper Java, Typescript and many more
-- 🌱 Meanwhile I'm a [certified]([https://gregors-picturegallery.onrender.com](https://eu.credential.net/0a346896-8484-4c44-a0a4-26647096cda5#acc.uwqXD4B3)) fullstack java developer
+- 🌱 Meanwhile I'm a [certified]([https://gregors-picturegallery.onrender.com](https://eu.credential.net/0a346896-8484-4c44-a0a4-26647096cda5#acc.uwqXD4B3) fullstack java developer
 - 📫 How to reach me: https://www.linkedin.com/in/gregor-stallmeister/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Everyone is their own project, also besides of GitHub!
