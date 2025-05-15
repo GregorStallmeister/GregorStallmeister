@@ -1,10 +1,11 @@
 ![image](https://github.com/user-attachments/assets/42f858b1-88a7-4a4c-8a03-06038adf13eb) <b> Hi there and welcome to my profile! </b>
 
 
-- 🔭 I’m currently working on my capstone project: gregors-picturegallery - gregors-fotogalerie
+- 🔭 My showcase project is my capstone project: gregors-picturegallery - gregors-fotogalerie
 - 🔭 You are cordially invited to look into the [repository](https://github.com/GregorStallmeister/gregors-picturegallery) and to visit the [running gallery](https://gregors-picturegallery.onrender.com)
-- 🌱 I’m currently learning deeper Java, Typescript and many more
-- 🌱 Meanwhile I'm a [certified](https://eu.credential.net/0a346896-8484-4c44-a0a4-26647096cda5#acc.uwqXD4B3) fullstack java developer
+- 🔭 Currently I'm working on my [music-monochrome](https://github.com/GregorStallmeister/music-monochrome) project and train with [codewars katas](https://github.com/GregorStallmeister/codewars)
+- 🌱 I have finished my bootcamp with Java, Typescript and many more
+- 🌱 From that I'm a [certified](https://eu.credential.net/0a346896-8484-4c44-a0a4-26647096cda5#acc.uwqXD4B3) fullstack java developer
 - 📫 How to reach me: https://www.linkedin.com/in/gregor-stallmeister/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Everyone is their own project, also besides of GitHub!
