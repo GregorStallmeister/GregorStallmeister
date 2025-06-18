@@ -10,7 +10,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Everyone is their own project, also besides of GitHub!
 
-![image]([https://github.com/user-attachments/assets/42f858b1-88a7-4a4c-8a03-06038adf13eb](https://www.codewars.com/users/GregorStallmeister/badges/large?theme=light))
+[image]([https://github.com/user-attachments/assets/42f858b1-88a7-4a4c-8a03-06038adf13eb](https://www.codewars.com/users/GregorStallmeister/badges/large?theme=light))
 
 <!--
 **GregorStallmeister/GregorStallmeister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
